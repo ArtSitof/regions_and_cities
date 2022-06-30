@@ -1,13 +1,7 @@
-HELP.md
-target/
-!.mvn/wrapper/maven-wrapper.jar
-!**/src/main/**/target/
-!**/src/test/**/target/
+# Project exclude paths
+/target/
 
-.idea/*
-build/*
+# Intellij
+.idea/
 *.iml
-out/*
-.maven/*
-target/*
-/.mvn/
+*.iws
